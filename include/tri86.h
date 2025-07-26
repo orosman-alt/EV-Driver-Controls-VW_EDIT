@@ -77,7 +77,10 @@
 // #define CUTOUT_ON_BRAKE		// Cut throttle on brake pedal active (solarcar preference to avoid dragging brakes)
 
 // Device serial number
-#define DEVICE_ID		0x1002
+
+//!!!!!!!!Voltwagen!!!!!!!!!!
+//	Changed serial to make it easy to know what drv cntr has the modded firmware and what doesnt. 
+#define DEVICE_ID		0x6060
 
 // Constant Definitions
 #define	TRUE				1
