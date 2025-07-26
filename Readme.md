@@ -1,4 +1,4 @@
-# Prohelion EV Driver Controls (PHLN-3000-0008)
+# Prohelion EV Driver Controls for VW2
 
 This repository contains the open-source firmware for the Prohelion EV Driver Controls unit. The device can be purchased from the [Prohelion Website](https://www.prohelion.com)
 
